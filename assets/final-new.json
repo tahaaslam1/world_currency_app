@@ -1,0 +1,1111 @@
+[
+  {
+    "Country": "United States",
+    "CountryCode": "US",
+    "Currency": "US Dollar",
+    "Code": "USD",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "Country": "American Samoa",
+    "CountryCode": "AS",
+    "Currency": "Euro",
+    "Code": "EUR",
+    "countryFlag": "🇦🇸"
+  },
+  {
+    "Country": "New Zealand",
+    "CountryCode": "NZ",
+    "Currency": "New Zealand Dollar",
+    "Code": "NZD",
+    "countryFlag": "🇳🇿"
+  },
+  {
+    "Country": "Australian",
+    "CountryCode": "AU",
+    "Currency": "Australian Dollar",
+    "Code": "AUD",
+    "countryFlag": "🇦🇺"
+  },
+
+  {
+    "Country": "United Kingdom",
+    "CountryCode": "GB",
+    "Currency": "Sterling",
+    "Code": "GBP",
+    "countryFlag": "🇬🇧"
+  },
+
+  {
+    "Country": "Hong Kong",
+    "CountryCode": "HK",
+    "Currency": "HK Dollar",
+    "Code": "HKD",
+    "countryFlag": "🇭🇰"
+  },
+  {
+    "Country": "Canada",
+    "CountryCode": "CA",
+    "Currency": "Canadian Dollar",
+    "Code": "CAD",
+    "countryFlag": "🇨🇦"
+  },
+  {
+    "Country": "Japan",
+    "CountryCode": "JP",
+    "Currency": "Japanese Yen",
+    "Code": "JPY",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "Country": "Afghanistan",
+    "CountryCode": "AF",
+    "Currency": "Afghan Afghani",
+    "Code": "AFN",
+    "countryFlag": "🇦🇫"
+  },
+  {
+    "Country": "Albania",
+    "CountryCode": "AL",
+    "Currency": "Albanian Lek",
+    "Code": "ALL",
+    "countryFlag": "🇦🇱"
+  },
+  {
+    "Country": "Algeria",
+    "CountryCode": "DZ",
+    "Currency": "Algerian Dinar",
+    "Code": "DZD",
+    "countryFlag": "🇩🇿"
+  },
+  {
+    "Country": "Anguilla",
+    "CountryCode": "AI",
+    "Currency": "East Caribbean Dollar",
+    "Code": "XCD",
+    "countryFlag": "🇦🇮"
+  },
+  {
+    "Country": "Argentina",
+    "CountryCode": "AR",
+    "Currency": "Argentine Peso",
+    "Code": "ARS",
+    "countryFlag": "🇦🇷"
+  },
+  {
+    "Country": "Armenia",
+    "CountryCode": "AM",
+    "Currency": "Armenian Dram",
+    "Code": "AMD",
+    "countryFlag": "🇦🇲"
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "CountryCode": "AN",
+    "Currency": "Dutch Guilder",
+    "Code": "ANG",
+    "countryFlag": "🇲🇫"
+  },
+  {
+    "Country": "Azerbaijan",
+    "CountryCode": "AZ",
+    "Currency": "Azerbaijan Manat",
+    "Code": "AZN",
+    "countryFlag": "🇦🇿"
+  },
+  {
+    "Country": "Bahamas",
+    "CountryCode": "BS",
+    "Currency": "Bahamian Dollar",
+    "Code": "BSD",
+    "countryFlag": "🇧🇸"
+  },
+  {
+    "Country": "Bahrain",
+    "CountryCode": "BH",
+    "Currency": "Bahraini Dinar",
+    "Code": "BHD",
+    "countryFlag": "🇧🇭"
+  },
+  {
+    "Country": "Bangladesh",
+    "CountryCode": "BD",
+    "Currency": "Bangladeshi Taka",
+    "Code": "BDT",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "Country": "Barbados",
+    "CountryCode": "BB",
+    "Currency": "Barbadian Dollar",
+    "Code": "BBD",
+    "countryFlag": "🇧🇧"
+  },
+  {
+    "Country": "Belarus",
+    "CountryCode": "BY",
+    "Currency": "Belarus Ruble",
+    "Code": "BYR",
+    "countryFlag": "🇧🇾"
+  },
+  {
+    "Country": "Belize",
+    "CountryCode": "BZ",
+    "Currency": "Belizean Dollar",
+    "Code": "BZD",
+    "countryFlag": "🇧🇿"
+  },
+  {
+    "Country": "Ivory Coast",
+    "CountryCode": "CI",
+    "Currency": "CFA Franc BCEAO",
+    "Code": "XOF",
+    "countryFlag": "🇨🇮"
+  },
+  {
+    "Country": "Bermuda",
+    "CountryCode": "BM",
+    "Currency": "Bermudian Dollar",
+    "Code": "BMD",
+    "countryFlag": "🇧🇲"
+  },
+  {
+    "Country": "India",
+    "CountryCode": "IN",
+    "Currency": "Indian Rupee",
+    "Code": "INR",
+    "countryFlag": "🇮🇳"
+  },
+  {
+    "Country": "Bolivia",
+    "CountryCode": "BO",
+    "Currency": "Bolivian Boliviano",
+    "Code": "BOB",
+    "countryFlag": "🇧🇴"
+  },
+  {
+    "Country": "Botswana",
+    "CountryCode": "BW",
+    "Currency": "Botswana Pula",
+    "Code": "BWP",
+    "countryFlag": "🇧🇼"
+  },
+  {
+    "Country": "Norway",
+    "CountryCode": "NO",
+    "Currency": "Norwegian Krone",
+    "Code": "NOK",
+    "countryFlag": "🇳🇴"
+  },
+  {
+    "Country": "Brazil",
+    "CountryCode": "BR",
+    "Currency": "Brazilian Real",
+    "Code": "BRL",
+    "countryFlag": "🇧🇷"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "CountryCode": "BN",
+    "Currency": "Bruneian Dollar",
+    "Code": "BND",
+    "countryFlag": "🇧🇳"
+  },
+  {
+    "Country": "Bulgaria",
+    "CountryCode": "BG",
+    "Currency": "Bulgarian Lev",
+    "Code": "BGN",
+    "countryFlag": "🇧🇬"
+  },
+  {
+    "Country": "Burundi",
+    "CountryCode": "BI",
+    "Currency": "Burundi Franc",
+    "Code": "BIF",
+    "countryFlag": "🇧🇮"
+  },
+  {
+    "Country": "Cambodia",
+    "CountryCode": "KH",
+    "Currency": "Cambodian Riel",
+    "Code": "KHR",
+    "countryFlag": "🇰🇭"
+  },
+  {
+    "Country": "Central African Republic",
+    "CountryCode": "CF",
+    "Currency": "CFA Franc BEAC",
+    "Code": "XAF",
+    "countryFlag": "🇨🇫"
+  },
+  {
+    "Country": "Cape Verde",
+    "CountryCode": "CV",
+    "Currency": "Cape Verde Escudo",
+    "Code": "CVE",
+    "countryFlag": "🇨🇻"
+  },
+  {
+    "Country": "Cayman Islands",
+    "CountryCode": "KY",
+    "Currency": "Caymanian Dollar",
+    "Code": "KYD",
+    "countryFlag": "🇰🇾"
+  },
+  {
+    "Country": "Chile",
+    "CountryCode": "CL",
+    "Currency": "Chilean Peso",
+    "Code": "CLP",
+    "countryFlag": "🇨🇱"
+  },
+  {
+    "Country": "China",
+    "CountryCode": "CN",
+    "Currency": "Chinese Yuan Renminbi",
+    "Code": "CNY",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "Country": "Colombia",
+    "CountryCode": "CO",
+    "Currency": "Colombian Peso",
+    "Code": "COP",
+    "countryFlag": "🇨🇴"
+  },
+  {
+    "Country": "Comoros",
+    "CountryCode": "KM",
+    "Currency": "Comoran Franc",
+    "Code": "KMF",
+    "countryFlag": "🇰🇲"
+  },
+  {
+    "Country": "Congo-Brazzaville",
+    "CountryCode": "CD",
+    "Currency": "Congolese Frank",
+    "Code": "CDF",
+    "countryFlag": "🇨🇩"
+  },
+  {
+    "Country": "Costa Rica",
+    "CountryCode": "CR",
+    "Currency": "Costa Rican Colon",
+    "Code": "CRC",
+    "countryFlag": "🇨🇷"
+  },
+  {
+    "Country": "Croatia (Hrvatska)",
+    "CountryCode": "HR",
+    "Currency": "Croatian Dinar",
+    "Code": "HRK",
+    "countryFlag": "🇭🇷"
+  },
+  {
+    "Country": "Cuba",
+    "CountryCode": "CU",
+    "Currency": "Cuban Peso",
+    "Code": "CUP",
+    "countryFlag": "🇨🇺"
+  },
+  {
+    "Country": "Cyprus",
+    "CountryCode": "CY",
+    "Currency": "Cypriot Pound",
+    "Code": "CYP",
+    "countryFlag": "🇨🇾"
+  },
+  {
+    "Country": "Czech Republic",
+    "CountryCode": "CZ",
+    "Currency": "Czech Koruna",
+    "Code": "CZK",
+    "countryFlag": "🇨🇿"
+  },
+  {
+    "Country": "Denmark",
+    "CountryCode": "DK",
+    "Currency": "Danish Krone",
+    "Code": "DKK",
+    "countryFlag": "🇩🇰"
+  },
+
+  {
+    "Country": "Djibouti",
+    "CountryCode": "DJ",
+    "Currency": "Djiboutian Franc",
+    "Code": "DJF",
+    "countryFlag": "🇩🇯"
+  },
+  {
+    "Country": "Dominican Republic",
+    "CountryCode": "DO",
+    "Currency": "Dominican Peso",
+    "Code": "DOP",
+    "countryFlag": "🇩🇴"
+  },
+  {
+    "Country": "East Timor",
+    "CountryCode": "TP",
+    "Currency": "Indonesian Rupiah",
+    "Code": "IDR",
+    "countryFlag": "🇮🇩"
+  },
+  {
+    "Country": "Ecuador",
+    "CountryCode": "EC",
+    "Currency": "Sucre",
+    "Code": "ECS",
+    "countryFlag": "🇪🇨"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "Currency": "Egyptian Pound",
+    "Code": "EGP",
+    "countryFlag": "🇪🇬"
+  },
+  {
+    "Country": "El Salvador",
+    "CountryCode": "SV",
+    "Currency": "Salvadoran Colon",
+    "Code": "SVC",
+    "countryFlag": "🇸🇻"
+  },
+  {
+    "Country": "Eritrea",
+    "CountryCode": "ER",
+    "Currency": "Ethiopian Birr",
+    "Code": "ETB",
+    "countryFlag": "🇪🇷"
+  },
+  {
+    "Country": "Estonia",
+    "CountryCode": "EE",
+    "Currency": "Estonian Kroon",
+    "Code": "EEK",
+    "countryFlag": "🇪🇪"
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "CountryCode": "FK",
+    "Currency": "Falkland Pound",
+    "Code": "FKP",
+    "countryFlag": "🇫🇰"
+  },
+  {
+    "Country": "Fiji",
+    "CountryCode": "FJ",
+    "Currency": "Fijian Dollar",
+    "Code": "FJD",
+    "countryFlag": "🇫🇯"
+  },
+  {
+    "Country": "French Polynesia",
+    "CountryCode": "PF",
+    "Currency": "CFP Franc",
+    "Code": "XPF",
+    "countryFlag": "🇵🇫"
+  },
+  {
+    "Country": "Wallis and Futuna Islands",
+    "CountryCode": "WF",
+    "Currency": "CFP Franc",
+    "Code": "XPF",
+    "countryFlag": "🇼🇫"
+  },
+  {
+    "Country": "Gambia",
+    "CountryCode": "GM",
+    "Currency": "Gambian Dalasi",
+    "Code": "GMD",
+    "countryFlag": "🇬🇲"
+  },
+  {
+    "Country": "Georgia",
+    "CountryCode": "GE",
+    "Currency": "Georgian Lari",
+    "Code": "GEL",
+    "countryFlag": "🇬🇪"
+  },
+  {
+    "Country": "Gibraltar",
+    "CountryCode": "GI",
+    "Currency": "Gibraltar Pound",
+    "Code": "GIP",
+    "countryFlag": "🇬🇮"
+  },
+  {
+    "Country": "Guatemala",
+    "CountryCode": "GT",
+    "Currency": "Guatemalan Quetzal",
+    "Code": "GTQ",
+    "countryFlag": "🇬🇹"
+  },
+  {
+    "Country": "Guinea",
+    "CountryCode": "GN",
+    "Currency": "Guinean Franc",
+    "Code": "GNF",
+    "countryFlag": "🇬🇳"
+  },
+  {
+    "Country": "Guyana",
+    "CountryCode": "GY",
+    "Currency": "Guyanaese Dollar",
+    "Code": "GYD",
+    "countryFlag": "🇬🇾"
+  },
+  {
+    "Country": "Haiti",
+    "CountryCode": "HT",
+    "Currency": "Haitian Gourde",
+    "Code": "HTG",
+    "countryFlag": "🇭🇹"
+  },
+  {
+    "Country": "Honduras",
+    "CountryCode": "HN",
+    "Currency": "Honduran Lempira",
+    "Code": "HNL",
+    "countryFlag": "🇭🇳"
+  },
+  {
+    "Country": "Hungary",
+    "CountryCode": "HU",
+    "Currency": "Hungarian Forint",
+    "Code": "HUF",
+    "countryFlag": "🇭🇺"
+  },
+  {
+    "Country": "Iceland",
+    "CountryCode": "IS",
+    "Currency": "Icelandic Krona",
+    "Code": "ISK",
+    "countryFlag": "🇮🇸"
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "CountryCode": "IR",
+    "Currency": "Iranian Rial",
+    "Code": "IRR",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "Country": "Iraq",
+    "CountryCode": "IQ",
+    "Currency": "Iraqi Dinar",
+    "Code": "IQD",
+    "countryFlag": "🇮🇶"
+  },
+  {
+    "Country": "Israel",
+    "CountryCode": "IL",
+    "Currency": "Israeli Shekel",
+    "Code": "ILS",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "Country": "Jamaica",
+    "CountryCode": "JM",
+    "Currency": "Jamaican Dollar",
+    "Code": "JMD",
+    "countryFlag": "🇯🇲"
+  },
+  {
+    "Country": "Jordan",
+    "CountryCode": "JO",
+    "Currency": "Jordanian Dinar",
+    "Code": "JOD",
+    "countryFlag": "🇯🇴"
+  },
+  {
+    "Country": "Kazakhstan",
+    "CountryCode": "KZ",
+    "Currency": "Kazakhstani Tenge",
+    "Code": "KZT",
+    "countryFlag": "🇰🇿"
+  },
+  {
+    "Country": "Kenya",
+    "CountryCode": "KE",
+    "Currency": "Kenyan Shilling",
+    "Code": "KES",
+    "countryFlag": "🇰🇪"
+  },
+  {
+    "Country": "Korea North",
+    "CountryCode": "KP",
+    "Currency": "North Korean Won",
+    "Code": "KPW",
+    "countryFlag": "🇰🇵"
+  },
+  {
+    "Country": "Korea South",
+    "CountryCode": "KR",
+    "Currency": "South Korean Won",
+    "Code": "KRW",
+    "countryFlag": "🇰🇷"
+  },
+  {
+    "Country": "Kuwait",
+    "CountryCode": "KW",
+    "Currency": "Kuwaiti Dinar",
+    "Code": "KWD",
+    "countryFlag": "🇰🇼"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "CountryCode": "KG",
+    "Currency": "Kyrgyzstani Som",
+    "Code": "KGS",
+    "countryFlag": "🇰🇬"
+  },
+  {
+    "Country": "Lao PeopleÕs Democratic Republic",
+    "CountryCode": "LA",
+    "Currency": "Lao Kip",
+    "Code": "LAK",
+    "countryFlag": "🇱🇦"
+  },
+  {
+    "Country": "Lebanon",
+    "CountryCode": "LB",
+    "Currency": "Lebanese Pound",
+    "Code": "LBP",
+    "countryFlag": "🇱🇧"
+  },
+  {
+    "Country": "Lesotho",
+    "CountryCode": "LS",
+    "Currency": "Basotho Loti",
+    "Code": "LSL",
+    "countryFlag": "🇱🇸"
+  },
+  {
+    "Country": "Liberia",
+    "CountryCode": "LR",
+    "Currency": "Liberian Dollar",
+    "Code": "LRD",
+    "countryFlag": "🇱🇷"
+  },
+  {
+    "Country": "Libyan Arab Jamahiriya",
+    "CountryCode": "LY",
+    "Currency": "Libyan Dinar",
+    "Code": "LYD",
+    "countryFlag": "🇱🇾"
+  },
+  {
+    "Country": "Liechtenstein",
+    "CountryCode": "LI",
+    "Currency": "Swiss Franc",
+    "Code": "CHF",
+    "countryFlag": "🇱🇮"
+  },
+  {
+    "Country": "Macau",
+    "CountryCode": "MO",
+    "Currency": "Macau Pataca",
+    "Code": "MOP",
+    "countryFlag": "🇲🇴"
+  },
+  {
+    "Country": "Macedonia",
+    "CountryCode": "MK",
+    "Currency": "Macedonian Denar",
+    "Code": "MKD",
+    "countryFlag": "🇲🇰"
+  },
+  {
+    "Country": "Madagascar",
+    "CountryCode": "MG",
+    "Currency": "Malagasy Franc",
+    "Code": "MGA",
+    "countryFlag": "🇲🇬"
+  },
+  {
+    "Country": "Malawi",
+    "CountryCode": "MW",
+    "Currency": "Malawian Kwacha",
+    "Code": "MWK",
+    "countryFlag": "🇲🇼"
+  },
+  {
+    "Country": "Malaysia",
+    "CountryCode": "MY",
+    "Currency": "Malaysian Ringgit",
+    "Code": "MYR",
+    "countryFlag": "🇲🇾"
+  },
+  {
+    "Country": "Maldives",
+    "CountryCode": "MV",
+    "Currency": "Maldivian Rufiyaa",
+    "Code": "MVR",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "Country": "Malta",
+    "CountryCode": "MT",
+    "Currency": "Maltese Lira",
+    "Code": "MTL",
+    "countryFlag": "🇲🇹"
+  },
+  {
+    "Country": "Mauritania",
+    "CountryCode": "MR",
+    "Currency": "Mauritanian Ouguiya",
+    "Code": "MRO",
+    "countryFlag": "🇲🇷"
+  },
+  {
+    "Country": "Mauritius",
+    "CountryCode": "MU",
+    "Currency": "Mauritian Rupee",
+    "Code": "MUR",
+    "countryFlag": "🇲🇺"
+  },
+  {
+    "Country": "Mexico",
+    "CountryCode": "MX",
+    "Currency": "Mexican Peso",
+    "Code": "MXN",
+    "countryFlag": "🇲🇽"
+  },
+  {
+    "Country": "Moldova Republic of",
+    "CountryCode": "MD",
+    "Currency": "Moldovan Leu",
+    "Code": "MDL",
+    "countryFlag": "🇲🇩"
+  },
+  {
+    "Country": "Mongolia",
+    "CountryCode": "MN",
+    "Currency": "Mongolian Tugrik",
+    "Code": "MNT",
+    "countryFlag": "🇲🇳"
+  },
+  {
+    "Country": "Morocco",
+    "CountryCode": "MA",
+    "Currency": "Moroccon Dirham",
+    "Code": "MAD",
+    "countryFlag": "🇲🇦"
+  },
+  {
+    "Country": "Mozambique",
+    "CountryCode": "MZ",
+    "Currency": "Mozambican Metical",
+    "Code": "MZN",
+    "countryFlag": "🇲🇿"
+  },
+  {
+    "Country": "Burma",
+    "CountryCode": "MM",
+    "Currency": "Burmese Kyat",
+    "Code": "MMK",
+    "countryFlag": "🇲🇲"
+  },
+  {
+    "Country": "Namibia",
+    "CountryCode": "NA",
+    "Currency": "Namibian Dollar",
+    "Code": "NAD",
+    "countryFlag": "🇳🇦"
+  },
+  {
+    "Country": "Nepal",
+    "CountryCode": "NP",
+    "Currency": "Nepalese Rupee",
+    "Code": "NPR",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "Country": "Nicaragua",
+    "CountryCode": "NI",
+    "Currency": "Nicaraguan Cordoba",
+    "Code": "NIO",
+    "countryFlag": "🇳🇮"
+  },
+  {
+    "Country": "Nigeria",
+    "CountryCode": "NG",
+    "Currency": "Nigerian Naira",
+    "Code": "NGN",
+    "countryFlag": "🇳🇬"
+  },
+  {
+    "Country": "Oman",
+    "CountryCode": "OM",
+    "Currency": "Omani Rial",
+    "Code": "OMR",
+    "countryFlag": "🇴🇲"
+  },
+  {
+    "Country": "Pakistan",
+    "CountryCode": "PK",
+    "Currency": "Pakistani Rupee",
+    "Code": "PKR",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "Country": "Panama",
+    "CountryCode": "PA",
+    "Currency": "Panamanian Balboa",
+    "Code": "PAB",
+    "countryFlag": "🇵🇦"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "CountryCode": "PG",
+    "Currency": "Papua New Guinea Kina",
+    "Code": "PGK",
+    "countryFlag": "🇵🇬"
+  },
+  {
+    "Country": "Paraguay",
+    "CountryCode": "PY",
+    "Currency": "Paraguayan Guarani",
+    "Code": "PYG",
+    "countryFlag": "🇵🇾"
+  },
+  {
+    "Country": "Peru",
+    "CountryCode": "PE",
+    "Currency": "Peruvian Sol",
+    "Code": "PEN",
+    "countryFlag": "🇵🇪"
+  },
+  {
+    "Country": "Philippines",
+    "CountryCode": "PH",
+    "Currency": "Philippine Peso",
+    "Code": "PHP",
+    "countryFlag": "🇵🇭"
+  },
+  {
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "Currency": "Polish Zloty",
+    "Code": "PLN",
+    "countryFlag": "🇵🇱"
+  },
+  {
+    "Country": "Qatar",
+    "CountryCode": "QA",
+    "Currency": "Qatari Rial",
+    "Code": "QAR",
+    "countryFlag": "🇶🇦"
+  },
+  {
+    "Country": "Romania",
+    "CountryCode": "RO",
+    "Currency": "Romanian Leu",
+    "Code": "RON",
+    "countryFlag": "🇷🇴"
+  },
+  {
+    "Country": "Russian Federation",
+    "CountryCode": "RU",
+    "Currency": "Russian Ruble",
+    "Code": "RUB",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "Country": "Rwanda",
+    "CountryCode": "RW",
+    "Currency": "Rwandan Franc",
+    "Code": "RWF",
+    "countryFlag": "🇷🇼"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "CountryCode": "ST",
+    "Currency": "Dobra",
+    "Code": "STD",
+    "countryFlag": "🇸🇹"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "CountryCode": "SA",
+    "Currency": "Saudi Riyal",
+    "Code": "SAR",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "Country": "Seychelles",
+    "CountryCode": "SC",
+    "Currency": "Seychellois Rupee",
+    "Code": "SCR",
+    "countryFlag": "🇸🇨"
+  },
+  {
+    "Country": "Sierra Leone",
+    "CountryCode": "SL",
+    "Currency": "Sierra Leonean Leone",
+    "Code": "SLL",
+    "countryFlag": "🇸🇱"
+  },
+  {
+    "Country": "Singapore",
+    "CountryCode": "SG",
+    "Currency": "Singapore Dollar",
+    "Code": "SGD",
+    "countryFlag": "🇸🇬"
+  },
+  {
+    "Country": "Slovakia (Slovak Republic)",
+    "CountryCode": "SK",
+    "Currency": "Koruna",
+    "Code": "SKK",
+    "countryFlag": "🇸🇰"
+  },
+  {
+    "Country": "Solomon Islands",
+    "CountryCode": "SB",
+    "Currency": "Solomon Islands Dollar",
+    "Code": "SBD",
+    "countryFlag": "🇸🇧"
+  },
+  {
+    "Country": "Somalia",
+    "CountryCode": "SO",
+    "Currency": "Somali Shilling",
+    "Code": "SOS",
+    "countryFlag": "🇸🇴"
+  },
+  {
+    "Country": "South Africa",
+    "CountryCode": "ZA",
+    "Currency": "South African Rand",
+    "Code": "ZAR",
+    "countryFlag": "🇿🇦"
+  },
+  {
+    "Country": "SriLanka",
+    "CountryCode": "LK",
+    "Currency": "Srilankan Rupee",
+    "Code": "LKR",
+    "countryFlag": "🇱🇰"
+  },
+  {
+    "Country": "Sudan",
+    "CountryCode": "SD",
+    "Currency": "Sudanese Pound",
+    "Code": "SDG",
+    "countryFlag": "🇸🇩"
+  },
+  {
+    "Country": "Suriname",
+    "CountryCode": "SR",
+    "Currency": "Surinamese Guilder",
+    "Code": "SRD",
+    "countryFlag": "🇸🇷"
+  },
+  {
+    "Country": "Swaziland",
+    "CountryCode": "SZ",
+    "Currency": "Swazi Lilangeni",
+    "Code": "SZL",
+    "countryFlag": "🇸🇿"
+  },
+  {
+    "Country": "Sweden",
+    "CountryCode": "SE",
+    "Currency": "Swedish Krona",
+    "Code": "SEK",
+    "countryFlag": "🇸🇪"
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "CountryCode": "SY",
+    "Currency": "Syrian Pound",
+    "Code": "SYP",
+    "countryFlag": "🇸🇾"
+  },
+  {
+    "Country": "Taiwan",
+    "CountryCode": "TW",
+    "Currency": "Taiwan New Dollar",
+    "Code": "TWD",
+    "countryFlag": "🇹🇼"
+  },
+  {
+    "Country": "Tajikistan",
+    "CountryCode": "TJ",
+    "Currency": "Tajikistani Ruble",
+    "Code": "TJS",
+    "countryFlag": "🇹🇯"
+  },
+  {
+    "Country": "Tanzania",
+    "CountryCode": "TZ",
+    "Currency": "Tanzanian Shilling",
+    "Code": "TZS",
+    "countryFlag": "🇹🇿"
+  },
+  {
+    "Country": "Thailand",
+    "CountryCode": "TH",
+    "Currency": "Thai Baht",
+    "Code": "THB",
+    "countryFlag": "🇹🇭"
+  },
+  {
+    "Country": "Tonga",
+    "CountryCode": "TO",
+    "Currency": "Tongan PaÕanga",
+    "Code": "TOP",
+    "countryFlag": "🇹🇴"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "CountryCode": "TT",
+    "Currency": "Trinidad and Tobago Dollar",
+    "Code": "TTD",
+    "countryFlag": "🇹🇹"
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "Currency": "Tunisian Dinar",
+    "Code": "TND",
+    "countryFlag": "🇹🇳"
+  },
+  {
+    "Country": "Turkey",
+    "CountryCode": "TR",
+    "Currency": "Turkish Lira",
+    "Code": "TRY",
+    "countryFlag": "🇹🇷"
+  },
+  {
+    "Country": "Turkmenistan",
+    "CountryCode": "TM",
+    "Currency": "Turkmenistani Manat",
+    "Code": "TMT",
+    "countryFlag": "🇹🇲"
+  },
+  {
+    "Country": "Uganda",
+    "CountryCode": "UG",
+    "Currency": "Ugandan Shilling",
+    "Code": "UGX",
+    "countryFlag": "🇺🇬"
+  },
+  {
+    "Country": "Ukraine",
+    "CountryCode": "UA",
+    "Currency": "Ukrainian Hryvnia",
+    "Code": "UAH",
+    "countryFlag": "🇺🇦"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "CountryCode": "AE",
+    "Currency": "Emirati Dirham",
+    "Code": "AED",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "Country": "Uruguay",
+    "CountryCode": "UY",
+    "Currency": "Uruguayan Peso",
+    "Code": "UYU",
+    "countryFlag": "🇺🇾"
+  },
+  {
+    "Country": "Uzbekistan",
+    "CountryCode": "UZ",
+    "Currency": "Uzbekistani Som",
+    "Code": "UZS",
+    "countryFlag": "🇺🇿"
+  },
+  {
+    "Country": "Vanuatu",
+    "CountryCode": "VU",
+    "Currency": "Vanuatu Vatu",
+    "Code": "VUV",
+    "countryFlag": "🇻🇺"
+  },
+  {
+    "Country": "Venezuela",
+    "CountryCode": "VE",
+    "Currency": "Venezuelan Bolivar",
+    "Code": "VEF",
+    "countryFlag": "🇻🇪"
+  },
+  {
+    "Country": "Vietnam",
+    "CountryCode": "VN",
+    "Currency": "Vietnamese Dong",
+    "Code": "VND",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "Country": "Yemen",
+    "CountryCode": "YE",
+    "Currency": "Yemeni Rial",
+    "Code": "YER",
+    "countryFlag": "🇾🇪"
+  },
+  {
+    "Country": "Zambia",
+    "CountryCode": "ZM",
+    "Currency": "Zambian Kwacha",
+    "Code": "ZMK",
+    "countryFlag": "🇿🇲"
+  },
+  {
+    "Country": "Zimbabwe",
+    "CountryCode": "ZW",
+    "Currency": "Zimbabwean Dollar",
+    "Code": "ZWD",
+    "countryFlag": "🇿🇼"
+  },
+  {
+    "Country": "Angola",
+    "CountryCode": "AO",
+    "Currency": "Angolan Kwanza",
+    "Code": "AOA",
+    "countryFlag": "🇦🇴"
+  },
+  {
+    "Country": "Antarctica",
+    "CountryCode": "AQ",
+    "Currency": "Antarctican Dollar",
+    "Code": "AQD",
+    "countryFlag": "🇦🇶"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "CountryCode": "BA",
+    "Currency": "Bosnia Convertible Mark",
+    "Code": "BAM",
+    "countryFlag": "🇧🇦"
+  },
+  {
+    "Country": "Ghana",
+    "CountryCode": "GH",
+    "Currency": "Ghana Cedi",
+    "Code": "GHS",
+    "countryFlag": "🇬🇭"
+  },
+  {
+    "Country": "Guernsey",
+    "CountryCode": "GG",
+    "Currency": "Guernsey Pound",
+    "Code": "GGP",
+    "countryFlag": "🇬🇬"
+  },
+  {
+    "Country": "Serbia",
+    "CountryCode": "RS",
+    "Currency": "Serbian Dinar",
+    "Code": "RSD",
+    "countryFlag": "🇷🇸"
+  }
+]

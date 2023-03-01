@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "330858168200",
+    "project_id": "world-currency-converter-pk",
+    "storage_bucket": "world-currency-converter-pk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330858168200:android:4d0df96accffda992a043d",
+        "android_client_info": {
+          "package_name": "freeworld.currency.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330858168200-r2qr80gj0pcfdrcvq3blce527grpjkfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29piBQfiwQVkw9zJymnpshrhQuesEAXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330858168200-r2qr80gj0pcfdrcvq3blce527grpjkfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330858168200:android:3bab9414d05260212a043d",
+        "android_client_info": {
+          "package_name": "freeworld.currencyconverter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330858168200-r2qr80gj0pcfdrcvq3blce527grpjkfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29piBQfiwQVkw9zJymnpshrhQuesEAXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330858168200-r2qr80gj0pcfdrcvq3blce527grpjkfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
